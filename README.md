@@ -1,4 +1,4 @@
-# Thunderbolt-frontend
+# thunderbolt-frontend
 오늘 번개 콜?!
 
 ## Feature
